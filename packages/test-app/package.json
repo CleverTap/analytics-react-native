@@ -21,8 +21,8 @@
     "react-native-cli": "^2.0.1"
   },
   "dependencies": {
-    "detox": "^12.1.1",
-    "isomorphic-fetch": "^2.2.1"
+    "detox": "^18.10.0",
+    "isomorphic-fetch": "^3.0.0"
   },
   "detox": {
     "test-runner": "jest",
